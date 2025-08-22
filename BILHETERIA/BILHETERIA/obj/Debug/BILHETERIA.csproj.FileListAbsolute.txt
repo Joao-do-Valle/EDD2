@@ -1,0 +1,11 @@
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\bin\Debug\BILHETERIA.exe.config
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\bin\Debug\BILHETERIA.exe
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\bin\Debug\BILHETERIA.pdb
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.csproj.AssemblyReference.cache
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.Form1.resources
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.Properties.Resources.resources
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.csproj.GenerateResource.cache
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.csproj.CoreCompileInputs.cache
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.exe
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.pdb
+C:\Users\solely\source\repos\BILHETERIA\BILHETERIA\obj\Debug\BILHETERIA.exe.config
