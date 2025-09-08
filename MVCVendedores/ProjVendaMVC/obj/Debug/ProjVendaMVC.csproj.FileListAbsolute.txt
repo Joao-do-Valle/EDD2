@@ -1,0 +1,7 @@
+C:\Users\solely\source\repos\ProjVendaMVC\ProjVendaMVC\bin\Debug\ProjVendaMVC.exe.config
+C:\Users\solely\source\repos\ProjVendaMVC\ProjVendaMVC\bin\Debug\ProjVendaMVC.exe
+C:\Users\solely\source\repos\ProjVendaMVC\ProjVendaMVC\bin\Debug\ProjVendaMVC.pdb
+C:\Users\solely\source\repos\ProjVendaMVC\ProjVendaMVC\obj\Debug\ProjVendaMVC.csproj.AssemblyReference.cache
+C:\Users\solely\source\repos\ProjVendaMVC\ProjVendaMVC\obj\Debug\ProjVendaMVC.csproj.CoreCompileInputs.cache
+C:\Users\solely\source\repos\ProjVendaMVC\ProjVendaMVC\obj\Debug\ProjVendaMVC.exe
+C:\Users\solely\source\repos\ProjVendaMVC\ProjVendaMVC\obj\Debug\ProjVendaMVC.pdb
