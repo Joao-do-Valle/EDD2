@@ -1,0 +1,10 @@
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\bin\Debug\net48\RestauranteApp.exe.config
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\bin\Debug\net48\RestauranteApp.exe
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\bin\Debug\net48\RestauranteApp.pdb
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\obj\Debug\net48\RestauranteApp.csproj.AssemblyReference.cache
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\obj\Debug\net48\RestauranteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\obj\Debug\net48\RestauranteApp.AssemblyInfoInputs.cache
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\obj\Debug\net48\RestauranteApp.AssemblyInfo.cs
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\obj\Debug\net48\RestauranteApp.csproj.CoreCompileInputs.cache
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\obj\Debug\net48\RestauranteApp.exe
+C:\Users\Lia\Downloads\RestauranteApp_Complete\RestauranteApp\obj\Debug\net48\RestauranteApp.pdb
