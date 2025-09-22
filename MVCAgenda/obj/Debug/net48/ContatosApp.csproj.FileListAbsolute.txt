@@ -1,0 +1,11 @@
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.csproj.AssemblyReference.cache
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.AssemblyInfoInputs.cache
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.AssemblyInfo.cs
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.csproj.CoreCompileInputs.cache
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\bin\Debug\net48\ContatosApp.exe.config
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\bin\Debug\net48\ContatosApp.exe
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\bin\Debug\net48\ContatosApp.pdb
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.exe
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.pdb
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda\obj\Debug\net48\ContatosApp.exe.config
