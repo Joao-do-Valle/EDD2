@@ -1,0 +1,14 @@
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\bin\Debug\net6.0-windows\AgendaApp.exe
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\bin\Debug\net6.0-windows\AgendaApp.deps.json
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\bin\Debug\net6.0-windows\AgendaApp.runtimeconfig.json
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\bin\Debug\net6.0-windows\AgendaApp.dll
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\bin\Debug\net6.0-windows\AgendaApp.pdb
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\AgendaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\AgendaApp.AssemblyInfoInputs.cache
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\AgendaApp.AssemblyInfo.cs
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\AgendaApp.csproj.CoreCompileInputs.cache
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\AgendaApp.dll
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\refint\AgendaApp.dll
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\AgendaApp.pdb
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\AgendaApp.genruntimeconfig.cache
+C:\Users\Lia\Documents\Facul\EDD2\MVCAgenda_form\AgendaApp\obj\Debug\net6.0-windows\ref\AgendaApp.dll
