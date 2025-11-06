@@ -1,0 +1,10 @@
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\bin\Debug\Proj_Filas_Atendimento.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\bin\Debug\Proj_Filas_Atendimento.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\bin\Debug\Proj_Filas_Atendimento.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\obj\Debug\Proj_Filas_Atendimento.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\obj\Debug\Proj_Filas_Atendimento.Form1.resources
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\obj\Debug\Proj_Filas_Atendimento.Properties.Resources.resources
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\obj\Debug\Proj_Filas_Atendimento.csproj.GenerateResource.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\obj\Debug\Proj_Filas_Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\obj\Debug\Proj_Filas_Atendimento.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Proj_Filas_Atendimento\Proj_Filas_Atendimento\obj\Debug\Proj_Filas_Atendimento.pdb
