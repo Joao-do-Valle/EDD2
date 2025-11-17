@@ -1,0 +1,16 @@
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\bin\Debug\net8.0-windows\ProjFilasAcessoFull.exe
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\bin\Debug\net8.0-windows\ProjFilasAcessoFull.deps.json
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\bin\Debug\net8.0-windows\ProjFilasAcessoFull.runtimeconfig.json
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\bin\Debug\net8.0-windows\ProjFilasAcessoFull.dll
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\bin\Debug\net8.0-windows\ProjFilasAcessoFull.pdb
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.AssemblyInfoInputs.cache
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.AssemblyInfo.cs
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.csproj.CoreCompileInputs.cache
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.dll
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\refint\ProjFilasAcessoFull.dll
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.pdb
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.genruntimeconfig.cache
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ref\ProjFilasAcessoFull.dll
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\ProjFilasAcessoFull.csproj.GenerateResource.cache
+C:\Users\Lia\Documents\Facul\EDD2\ProjFilasAcesso\obj\Debug\net8.0-windows\FrmMenu.resources
